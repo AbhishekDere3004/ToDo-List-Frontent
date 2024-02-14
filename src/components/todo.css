@@ -1,0 +1,29 @@
+.todo {
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .todo:hover {
+    background-color: #eaeaea;
+  }
+  
+  .icons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .icon {
+    font-size: 1.2rem;
+    color: #888;
+    cursor: pointer;
+  }
+  
+  .icon:hover {
+    color: #555;
+  }
+  
